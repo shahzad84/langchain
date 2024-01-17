@@ -1,0 +1,23 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "city": "Exampleville",
+    "is_student": false,
+    "grades": [90, 85, 92],
+    "address": {
+      "street": "123 Main Street",
+      "zip_code": "12345",
+      "country": "Exampleland"
+    },
+    "contacts": [
+      {
+        "type": "email",
+        "value": "john.doe@example.com"
+      },
+      {
+        "type": "phone",
+        "value": "+1234567890"
+      }
+    ]
+  }
+  
