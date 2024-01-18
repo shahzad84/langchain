@@ -8,3 +8,8 @@ text="lorem"
 count_start_and_stop_tokens=2
 text_token_count=splitter.count_tokens(text=text)-count_start_and_stop_tokens
 print(text_token_count)
+
+
+# note : there are two more toknizer
+# 1.NLTK
+# 2. hugging face tokenizer
